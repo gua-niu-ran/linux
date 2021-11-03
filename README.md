@@ -1,2 +1,3 @@
 # linux
-常用的linux操作以及命令
+
+I will update this branch for easy operation and commands for linux.
